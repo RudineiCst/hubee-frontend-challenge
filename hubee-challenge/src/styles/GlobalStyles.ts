@@ -1,5 +1,4 @@
-import {createGlobalStyle} from 'styled-components';
-
+import { createGlobalStyle } from 'styled-components';
 
 export default createGlobalStyle`
 * {
@@ -18,4 +17,4 @@ body, input, button {
   margin: auto;
   padding: 40px 20px
 }
-`
+`;
